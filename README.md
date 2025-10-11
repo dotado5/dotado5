@@ -5,5 +5,4 @@
 - 🌱 I’m currently learning Data Engineering.
 - 👯 I’m looking to collaborate on anything beneficial.
 - 💬 Ask me about how I can contribute to your project.
-- 📫 How to reach me: Gmail: oguntolagifted@gmail.com or X: x.com/the__oguntola. 
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Gmail: oguntolagifted@gmail.com.
